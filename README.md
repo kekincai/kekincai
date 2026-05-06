@@ -19,11 +19,19 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[Stack Overflow](https://stackoverflow.com/users/8745472) · [Facebook](https://fb.com/kekincai) · [LeetCode](https://www.leetcode.com/jin-tai-yang-wu-di)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8745472)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/kekincai)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/jin-tai-yang-wu-di)
 
 <h3 align="left">Languages and Tools:</h3>
 
-`Bash` `CSS` `Django` `Figma` `Git` `Haskell` `HTML5` `IFTTT` `Java` `Linux` `Microsoft SQL Server` `MySQL` `Pandas` `Python` `PyTorch` `Selenium` `Spring`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,css,django,figma,git,haskell,html,java,linux,mysql,py,pytorch,selenium,spring&theme=light&perline=8" alt="Bash, CSS, Django, Figma, Git, Haskell, HTML5, Java, Linux, MySQL, Python, PyTorch, Selenium, and Spring" />
+</p>
+
+![IFTTT](https://img.shields.io/badge/IFTTT-F5F5F5?style=flat-square&logo=ifttt&logoColor=111111)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-F5F5F5?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![Pandas](https://img.shields.io/badge/Pandas-F5F5F5?style=flat-square&logo=pandas&logoColor=150458)
 
 <h3 align="left">GitHub Stats:</h3>
 
