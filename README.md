@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
+  <a href="https://kekincai.github.io/homepage/">Website</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/kekincai?tab=repositories">Projects</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/kekincai/ai-blog">PAUL.LOG</a>
