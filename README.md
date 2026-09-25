@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Paul Cai — useful software, thoughtfully made in Tokyo" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sakura-heron-profile-static.png" />
+    <img src="./assets/sakura-heron-profile.gif" alt="A heron pedals a bicycle beneath drifting cherry blossoms — Paul Cai, Tokyo" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <strong>I build useful software where AI, native platforms, and local data meet.</strong><br />
-  <sub>Tokyo · 中文 / English / 日本語</sub>
+  <strong>AI、ネイティブアプリ、ローカルデータが交わる場所に、役に立つ道具を。</strong><br />
+  <sub>Useful software where AI, native platforms, and local data meet. · Tokyo</sub>
 </p>
 
 <p align="center">
@@ -17,7 +20,7 @@
 
 <br />
 
-## Selected work
+## 選集 / Selected work
 
 ### 01 — [DiskFerry](https://github.com/kekincai/DiskFerry)
 
@@ -51,7 +54,7 @@ An editorial, spatial way to browse Chrome bookmarks through real webpage previe
 
 <br />
 
-## Small tools, sharp edges
+## 小さな道具 / Small tools, sharp edges
 
 - [TaskPaper MCP Server](https://github.com/kekincai/taskpaper-mcp-server) — structured TaskPaper access for AI assistants on macOS.
 - [Telegram Drive for macOS](https://github.com/kekincai/telegram-drive-macos) — a read-only File Provider for browsing Telegram media in Finder.
@@ -60,7 +63,7 @@ An editorial, spatial way to browse Chrome bookmarks through real webpage previe
 
 <br />
 
-## How I work
+## 作り方 / How I work
 
 ```text
 01  Make the problem concrete.
