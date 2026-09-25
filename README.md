@@ -20,58 +20,65 @@
 
 <br />
 
-## 選集 / Selected work
-
-### 01 — [DiskFerry](https://github.com/kekincai/DiskFerry)
-
-Native macOS file transfer for external drives, NAS, and Windows shares — with honest live progress and reusable routes.
-
-`Swift` `SwiftUI` `rclone`
-
----
-
-### 02 — [FDE RADAR](https://github.com/kekincai/fde)
-
-Japan-first technology intelligence, organized to support decisions for companies and individuals.
-
-`Astro` `Cloudflare Workers` `D1`
-
----
-
-### 03 — [CoBRA](https://github.com/kekincai/CoBRA)
-
-A local-first, source-backed workspace for reproducible software estimation and AI-impact analysis.
-
-`TypeScript` `Statistics` `Local-first`
-
----
-
-### 04 — [Bookmark Cover Flow](https://github.com/kekincai/bookmark-cover-flow)
-
-An editorial, spatial way to browse Chrome bookmarks through real webpage previews.
-
-`TypeScript` `Chrome MV3` `Web Components`
+<a href="https://github.com/kekincai/DiskFerry">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/diskferry-static.png" />
+    <img src="./assets/sections/diskferry.gif" alt="01 — DiskFerry: native macOS transfers for external drives, NAS, and Windows shares" width="100%" />
+  </picture>
+</a>
 
 <br />
 
-## 小さな道具 / Small tools, sharp edges
-
-- [TaskPaper MCP Server](https://github.com/kekincai/taskpaper-mcp-server) — structured TaskPaper access for AI assistants on macOS.
-- [Telegram Drive for macOS](https://github.com/kekincai/telegram-drive-macos) — a read-only File Provider for browsing Telegram media in Finder.
-- [Safe Clip](https://github.com/kekincai/safe-clip-popclip) — local-first redaction for selected text in PopClip.
-- [LLM in Racket](https://github.com/kekincai/llm-racket) — minimal, CPU-only GPT training rebuilt from first principles.
+<a href="https://github.com/kekincai/fde">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/fde-static.png" />
+    <img src="./assets/sections/fde.gif" alt="02 — FDE RADAR: Japan-first technology intelligence organized for decisions" width="100%" />
+  </picture>
+</a>
 
 <br />
 
-## 作り方 / How I work
+<a href="https://github.com/kekincai/CoBRA">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/cobra-static.png" />
+    <img src="./assets/sections/cobra.gif" alt="03 — CoBRA: reproducible, local-first software estimation and AI-impact analysis" width="100%" />
+  </picture>
+</a>
 
-```text
-01  Make the problem concrete.
-02  Keep private data close to the user.
-03  Build the smallest complete thing.
-04  Test it in the real world.
-```
+<br />
 
-I work across native Apple platforms, the web, data analysis, and AI tooling. The stack changes; the standard does not: clear purpose, observable behavior, and software that earns its place.
+<a href="https://github.com/kekincai/bookmark-cover-flow">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/bookmark-static.png" />
+    <img src="./assets/sections/bookmark.gif" alt="04 — Bookmark Cover Flow: an editorial, spatial Chrome bookmark browser" width="100%" />
+  </picture>
+</a>
 
-<p align="right"><sub>BUILD TO UNDERSTAND · SHIP TO LEARN</sub></p>
+<br /><br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/tools-static.png" />
+  <img src="./assets/sections/tools.gif" alt="Small tools, sharp edges, small footprint" width="100%" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/kekincai/taskpaper-mcp-server">TaskPaper MCP</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kekincai/telegram-drive-macos">Telegram Drive</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kekincai/safe-clip-popclip">Safe Clip</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kekincai/llm-racket">LLM in Racket</a>
+</p>
+
+<br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sections/method-static.png" />
+  <img src="./assets/sections/method.gif" alt="How I work: make the problem concrete, keep data close, build the smallest complete thing, and test it in the real world" width="100%" />
+</picture>
+
+<p align="center">
+  <sub>Native Apple platforms · Web · Data · Applied AI</sub><br />
+  <strong>明確に考え、丁寧につくる。</strong>
+</p>
