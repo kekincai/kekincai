@@ -5,15 +5,15 @@
   </picture>
 </p>
 
+<h1 align="center">春日慢行 · PAUL CAI</h1>
+
 <p align="center">
-  <strong>AI、ネイティブアプリ、ローカルデータが交わる場所に、役に立つ道具を。</strong><br />
+  <strong>役に立つ道具を、丁寧につくる。</strong><br />
   <sub>Useful software where AI, native platforms, and local data meet. · Tokyo</sub>
 </p>
 
 <p align="center">
-  <a href="https://kekincai.github.io/homepage/">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/kekincai?tab=repositories">Projects</a>
+  <a href="#01--selected-work">Selected Work</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/kekincai/ai-blog">PAUL.LOG</a>
   &nbsp;·&nbsp;
@@ -22,50 +22,58 @@
 
 <br />
 
-## 選集 / Selected work
+```text
+TOKYO  35.6762° N
+FOCUS  AI × NATIVE × LOCAL-FIRST
+MODE   BUILD TO UNDERSTAND / SHIP TO LEARN
+```
 
-### 01 — [DiskFerry](https://github.com/kekincai/DiskFerry)
+## 00 / SIGNAL
 
-Native macOS file transfer for external drives, NAS, and Windows shares — with honest live progress and reusable routes.
+東京で、日々の小さな摩擦をほどくソフトウェアをつくっています。
 
-`Swift` `SwiftUI` `rclone`
+I build focused tools across native Apple platforms, AI workflows, and local data. The stack changes; the standard does not: clear purpose, observable behavior, and software that earns its place.
 
----
+<br />
 
-### 02 — [FDE RADAR](https://github.com/kekincai/fde)
+## 01 / SELECTED WORK
 
-Japan-first technology intelligence, organized to support decisions for companies and individuals.
+### [DiskFerry](https://github.com/kekincai/DiskFerry) `SWIFT · MACOS · RCLONE`
 
-`Astro` `Cloudflare Workers` `D1`
-
----
-
-### 03 — [CoBRA](https://github.com/kekincai/CoBRA)
-
-A local-first, source-backed workspace for reproducible software estimation and AI-impact analysis.
-
-`TypeScript` `Statistics` `Local-first`
+Native macOS transfers for external drives, NAS, and Windows shares — with honest live progress and reusable routes.
 
 ---
 
-### 04 — [Bookmark Cover Flow](https://github.com/kekincai/bookmark-cover-flow)
+### [FDE RADAR](https://github.com/kekincai/fde) `ASTRO · WORKERS · D1`
+
+日本を中心に、Webとデジタルの変化を会社と個人の判断材料として整理する。
+
+---
+
+### [CoBRA](https://github.com/kekincai/CoBRA) `JAVASCRIPT · DATA · LOCAL-FIRST`
+
+A source-backed workspace for reproducible software estimation and AI-impact analysis.
+
+---
+
+### [Bookmark Cover Flow](https://github.com/kekincai/bookmark-cover-flow) `TYPESCRIPT · CHROME · INDEXEDDB`
 
 An editorial, spatial way to browse Chrome bookmarks through real webpage previews.
 
-`TypeScript` `Chrome MV3` `Web Components`
+<br />
+
+## 02 / SMALL TOOLS, SHARP EDGES
+
+| | Project | Purpose |
+| :--- | :--- | :--- |
+| `01` | [TaskPaper MCP Server](https://github.com/kekincai/taskpaper-mcp-server) | Structured TaskPaper access for AI assistants on macOS |
+| `02` | [Telegram Drive](https://github.com/kekincai/telegram-drive-macos) | Read-only Telegram media in Finder through File Provider |
+| `03` | [Safe Clip](https://github.com/kekincai/safe-clip-popclip) | Local-first redaction for selected text in PopClip |
+| `04` | [LLM in Racket](https://github.com/kekincai/llm-racket) | Minimal CPU-only GPT training, rebuilt from first principles |
 
 <br />
 
-## 小さな道具 / Small tools, sharp edges
-
-- [TaskPaper MCP Server](https://github.com/kekincai/taskpaper-mcp-server) — structured TaskPaper access for AI assistants on macOS.
-- [Telegram Drive for macOS](https://github.com/kekincai/telegram-drive-macos) — a read-only File Provider for browsing Telegram media in Finder.
-- [Safe Clip](https://github.com/kekincai/safe-clip-popclip) — local-first redaction for selected text in PopClip.
-- [LLM in Racket](https://github.com/kekincai/llm-racket) — minimal, CPU-only GPT training rebuilt from first principles.
-
-<br />
-
-## 作り方 / How I work
+## 03 / OPERATING PRINCIPLES
 
 ```text
 01  Make the problem concrete.
@@ -74,6 +82,8 @@ An editorial, spatial way to browse Chrome bookmarks through real webpage previe
 04  Test it in the real world.
 ```
 
-I work across native Apple platforms, the web, data analysis, and AI tooling. The stack changes; the standard does not: clear purpose, observable behavior, and software that earns its place.
+<br />
 
-<p align="right"><sub>BUILD TO UNDERSTAND · SHIP TO LEARN</sub></p>
+<p align="center">
+  <sub>風を読み、静かに前へ。 · SOFTWARE FOR A KINDER TOMORROW</sub>
+</p>
