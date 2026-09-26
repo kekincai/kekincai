@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 262" width="210" height="262" role="img" aria-label="No.04 LLM in Racket — Minimal CPU-only GPT, rebuilt from first principles">
+<title>No.04 LLM in Racket — Minimal CPU-only GPT, rebuilt from first principles</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="210" height="262" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="210" height="262" fill="#F5EFE4"/>
+    
+    <g transform="rotate(7 105 100)" opacity=".92">
+      <circle cx="105" cy="100" r="70" fill="none" stroke="#C25B6E" stroke-width="3"/>
+      <circle cx="105" cy="100" r="63" fill="none" stroke="#C25B6E" stroke-width="1"/>
+      <path id="arc" d="M52 100 A53 53 0 0 1 158 100" fill="none"/>
+      <text class="mono" font-size="10" letter-spacing="2.2" fill="#C25B6E"><textPath href="#arc" startOffset="50%" text-anchor="middle">LLM IN RACKET</textPath></text>
+      <g transform="translate(105 108)" fill="none" stroke="#C25B6E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-16 -26 C-28 -12 -28 12 -16 26 M16 -26 C28 -12 28 12 16 26"/><path d="M-8 -18 L10 18 M1 0 L-10 18"/></g>
+      <text x="105" y="154" class="mono" font-size="10" fill="#C25B6E" text-anchor="middle" letter-spacing="2">No.04</text>
+    </g>
+    <text x="105" y="204" class="serif" font-size="16.5" fill="#2E3B37" text-anchor="middle">LLM in Racket</text>
+    <text x="105" y="226" class="serif" font-size="12.5" fill="#5D6B64" text-anchor="middle">Minimal CPU-only GPT,</text><text x="105" y="243" class="serif" font-size="12.5" fill="#5D6B64" text-anchor="middle">rebuilt from first principles</text>
+    <circle cx="197.45" cy="11.44" r="6.18" fill="#F6D3D9" opacity="0.89"/><circle cx="202.11" cy="12.93" r="7.36" fill="#EFB7C3" opacity="0.88"/><circle cx="199.26" cy="12.45" r="6.76" fill="#E49AAB" opacity="0.81"/><circle cx="200.33" cy="12.91" r="5.57" fill="#F6D3D9" opacity="0.92"/><g fill="#FCEBEE"><circle cx="193.98" cy="9.73" r="1.27"/><circle cx="195.47" cy="10.81" r="1.27"/><circle cx="194.9" cy="12.57" r="1.27"/><circle cx="193.06" cy="12.57" r="1.27"/><circle cx="192.49" cy="10.81" r="1.27"/></g><circle cx="193.98" cy="11.3" r="0.71" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="201.4" cy="12.69" r="2.06"/><circle cx="203.84" cy="14.46" r="2.06"/><circle cx="202.91" cy="17.31" r="2.06"/><circle cx="199.9" cy="17.31" r="2.06"/><circle cx="198.97" cy="14.46" r="2.06"/></g><circle cx="201.4" cy="15.25" r="1.15" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="199.95" cy="15.21" r="1.7"/><circle cx="201.95" cy="16.66" r="1.7"/><circle cx="201.19" cy="19.01" r="1.7"/><circle cx="198.71" cy="19.01" r="1.7"/><circle cx="197.95" cy="16.66" r="1.7"/></g><circle cx="199.95" cy="17.31" r="0.95" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="197.33" cy="11.46" r="2.07"/><circle cx="199.77" cy="13.23" r="2.07"/><circle cx="198.84" cy="16.1" r="2.07"/><circle cx="195.82" cy="16.1" r="2.07"/><circle cx="194.89" cy="13.23" r="2.07"/></g><circle cx="197.33" cy="14.02" r="1.16" fill="#D6879A"/>
+    
+    <rect width="210" height="262" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="208.5" height="260.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>

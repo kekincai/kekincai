@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 262" width="210" height="262" role="img" aria-label="No.01 TaskPaper MCP — Structured TaskPaper access for AI on macOS">
+<title>No.01 TaskPaper MCP — Structured TaskPaper access for AI on macOS</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="210" height="262" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="210" height="262" fill="#F5EFE4"/>
+    
+    <g transform="rotate(-6 105 100)" opacity=".92">
+      <circle cx="105" cy="100" r="70" fill="none" stroke="#C25B6E" stroke-width="3"/>
+      <circle cx="105" cy="100" r="63" fill="none" stroke="#C25B6E" stroke-width="1"/>
+      <path id="arc" d="M52 100 A53 53 0 0 1 158 100" fill="none"/>
+      <text class="mono" font-size="10" letter-spacing="2.2" fill="#C25B6E"><textPath href="#arc" startOffset="50%" text-anchor="middle">TASKPAPER MCP</textPath></text>
+      <g transform="translate(105 108)" fill="none" stroke="#C25B6E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-20" y="-26" width="40" height="46" rx="4"/><path d="M-12 -14 l4 4 l7 -8 M4 -12 h10 M-12 0 l4 4 l7 -8 M4 2 h10"/><path d="M-12 12 h26"/></g>
+      <text x="105" y="154" class="mono" font-size="10" fill="#C25B6E" text-anchor="middle" letter-spacing="2">No.01</text>
+    </g>
+    <text x="105" y="204" class="serif" font-size="16.5" fill="#2E3B37" text-anchor="middle">TaskPaper MCP</text>
+    <text x="105" y="226" class="serif" font-size="12.5" fill="#5D6B64" text-anchor="middle">Structured TaskPaper</text><text x="105" y="243" class="serif" font-size="12.5" fill="#5D6B64" text-anchor="middle">access for AI on macOS</text>
+    <circle cx="199.62" cy="13.6" r="5.72" fill="#F6D3D9" opacity="0.89"/><circle cx="200.32" cy="11.68" r="8.41" fill="#EFB7C3" opacity="0.77"/><circle cx="201.17" cy="15.55" r="6.54" fill="#E49AAB" opacity="0.82"/><circle cx="197.9" cy="13.89" r="8.1" fill="#F6D3D9" opacity="0.83"/><g fill="#FCEBEE"><circle cx="192.84" cy="10.68" r="1.64"/><circle cx="194.78" cy="12.09" r="1.64"/><circle cx="194.04" cy="14.36" r="1.64"/><circle cx="191.65" cy="14.36" r="1.64"/><circle cx="190.91" cy="12.09" r="1.64"/></g><circle cx="192.84" cy="12.72" r="0.92" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="205.53" cy="13.7" r="2.05"/><circle cx="207.95" cy="15.46" r="2.05"/><circle cx="207.03" cy="18.3" r="2.05"/><circle cx="204.04" cy="18.3" r="2.05"/><circle cx="203.11" cy="15.46" r="2.05"/></g><circle cx="205.53" cy="16.24" r="1.15" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="203.2" cy="10.89" r="1.34"/><circle cx="204.78" cy="12.04" r="1.34"/><circle cx="204.17" cy="13.89" r="1.34"/><circle cx="202.22" cy="13.89" r="1.34"/><circle cx="201.62" cy="12.04" r="1.34"/></g><circle cx="203.2" cy="12.55" r="0.75" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="199.52" cy="9.83" r="1.6"/><circle cx="201.4" cy="11.2" r="1.6"/><circle cx="200.68" cy="13.42" r="1.6"/><circle cx="198.36" cy="13.42" r="1.6"/><circle cx="197.64" cy="11.2" r="1.6"/></g><circle cx="199.52" cy="11.81" r="0.89" fill="#D6879A"/>
+    
+    <rect width="210" height="262" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="208.5" height="260.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>

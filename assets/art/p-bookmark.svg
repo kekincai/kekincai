@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" role="img" aria-label="04 Bookmark Cover Flow — An editorial, spatial way to browse Chrome bookmarks through real webpage previews.">
+<title>04 Bookmark Cover Flow — An editorial, spatial way to browse Chrome bookmarks through real webpage previews.</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="440" height="300" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="440" height="300" fill="#F5EFE4"/>
+    
+    <g><linearGradient id="vs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFE7DA"/><stop offset="1" stop-color="#DDE4D5"/></linearGradient>
+  <rect width="440" height="160" fill="url(#vs)"/>
+  
+  <path d="M0 132 Q55 119.45 110 132 Q165 134.7 220 132 Q275 115.29 330 132 Q385 134.7 440 132 L440 160 L0 160 Z" fill="#CBD5C3"/>
+  <ellipse cx="220" cy="146" rx="170" ry="8" fill="#3C4A42" opacity=".1"/>
+  <g transform="translate(70 80) scale(0.62) skewY(8)"><rect x="-42" y="-56" width="84" height="112" rx="6" fill="#DCE5EC" stroke="#D6C6AB"/><rect x="-32" y="-44" width="64" height="36" rx="3" fill="#fff" opacity=".7"/><path d="M-32 6 H26 M-32 18 H14 M-32 30 H22" stroke="#8C978F" stroke-width="3" stroke-linecap="round" opacity=".6"/></g><g transform="translate(140 80) scale(0.8) skewY(8)"><rect x="-42" y="-56" width="84" height="112" rx="6" fill="#F6D3D9" stroke="#D6C6AB"/><rect x="-32" y="-44" width="64" height="36" rx="3" fill="#fff" opacity=".7"/><path d="M-32 6 H26 M-32 18 H14 M-32 30 H22" stroke="#8C978F" stroke-width="3" stroke-linecap="round" opacity=".6"/></g><g transform="translate(300 80) scale(0.8) skewY(-8)"><rect x="-42" y="-56" width="84" height="112" rx="6" fill="#E4EBDD" stroke="#D6C6AB"/><rect x="-32" y="-44" width="64" height="36" rx="3" fill="#fff" opacity=".7"/><path d="M-32 6 H26 M-32 18 H14 M-32 30 H22" stroke="#8C978F" stroke-width="3" stroke-linecap="round" opacity=".6"/></g><g transform="translate(370 80) scale(0.62) skewY(-8)"><rect x="-42" y="-56" width="84" height="112" rx="6" fill="#FCEBEE" stroke="#D6C6AB"/><rect x="-32" y="-44" width="64" height="36" rx="3" fill="#fff" opacity=".7"/><path d="M-32 6 H26 M-32 18 H14 M-32 30 H22" stroke="#8C978F" stroke-width="3" stroke-linecap="round" opacity=".6"/></g>
+  <g transform="translate(220 78)"><animateTransform attributeName="transform" type="translate" values="220 78;220 72;220 78" dur="3.2s" repeatCount="indefinite"/>
+    <rect x="-46" y="-60" width="92" height="120" rx="7" fill="#FBF7EF" stroke="#D6C6AB" stroke-width="1.5"/>
+    <rect x="-36" y="-48" width="72" height="44" rx="4" fill="#DDE4D5"/>
+    <path d="M-36 -12 Q-18 -26 0 -14 T36 -18 V-4 H-36 Z" fill="#B1C2AD"/>
+    <circle cx="18" cy="-36" r="6" fill="#F7E3D5"/>
+    <path d="M-36 12 H30 M-36 24 H16 M-36 36 H26" stroke="#5D6B64" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+    <path d="M26 -60 V-36 L32 -42 L38 -36 V-60 Z" fill="#C25B6E"/>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" from="196.32 -20" to="136.32 170" dur="12.69s" begin="-5.61s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;24.55 0;0 0" dur="4.23s" begin="-5.61s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.91)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.55s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="241.34 -20" to="181.34 170" dur="12.06s" begin="-0.35s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;19.23 0;0 0" dur="4.02s" begin="-0.35s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(1)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.41s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="132.88 -20" to="72.88 170" dur="10.68s" begin="-2.68s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;20.15 0;0 0" dur="3.56s" begin="-2.68s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(1.02)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.33s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="6.02 -20" to="-53.98 170" dur="12.62s" begin="-9.13s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;15.92 0;0 0" dur="4.21s" begin="-9.13s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(1.08)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.7s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="220.55 -20" to="160.55 170" dur="12.03s" begin="-1.34s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;21.5 0;0 0" dur="4.01s" begin="-1.34s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.85)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.53s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="367.51 -20" to="307.51 170" dur="11.77s" begin="-6.46s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;19.49 0;0 0" dur="3.92s" begin="-6.46s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.76)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.12s" repeatCount="indefinite" additive="sum"/></use></g></g>
+  <path d="M0 160 H440" stroke="#E4D8C4" stroke-width="1.5"/></g>
+    <text x="30" y="192" class="mono" font-size="11" letter-spacing="3" fill="#C25B6E">04</text>
+    <text x="410" y="192" class="mono" font-size="10" letter-spacing="1.6" fill="#8C978F" text-anchor="end">TS · CHROME · IDB</text>
+    <text x="30" y="224" class="serif" font-size="25" fill="#2E3B37">Bookmark Cover Flow</text>
+    <text x="30" y="252" class="serif" font-size="14.5" fill="#5D6B64">An editorial, spatial way to browse Chrome</text><text x="30" y="272" class="serif" font-size="14.5" fill="#5D6B64">bookmarks through real webpage previews.</text>
+    <text x="410" y="224" class="mono" font-size="16" fill="#8C978F" text-anchor="end">↗</text>
+    
+    <rect width="440" height="300" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="438.5" height="298.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>

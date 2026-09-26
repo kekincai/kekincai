@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" role="img" aria-label="01 DiskFerry — Native macOS transfers for drives, NAS and Windows shares — with honest live progress.">
+<title>01 DiskFerry — Native macOS transfers for drives, NAS and Windows shares — with honest live progress.</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="440" height="300" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="440" height="300" fill="#F5EFE4"/>
+    
+    <g><linearGradient id="vs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFE7DA"/><stop offset="1" stop-color="#DDE4D5"/></linearGradient>
+  <rect width="440" height="160" fill="url(#vs)"/>
+  
+  <path d="M0 96 Q55 77.93 110 96 Q165 99.9 220 96 Q275 73.73 330 96 Q385 99.9 440 96 L440 160 L0 160 Z" fill="#CBD5C3"/>
+  <path d="M0 104 C80 98 160 110 240 104 C320 98 380 108 440 102 L440 160 L0 160 Z" fill="#BFD1CF"/>
+  <g stroke="#fff" stroke-width="1.5" opacity=".7" stroke-linecap="round">
+    <path d="M40 124 h26 M120 138 h18 M300 128 h30 M360 146 h16 M210 150 h22"><animateTransform attributeName="transform" type="translate" values="0 0;-10 0;0 0" dur="5s" repeatCount="indefinite"/></path>
+  </g>
+  <g transform="translate(160 118)"><animateTransform attributeName="transform" type="translate" values="160 118;166 115;172 118;166 120;160 118" dur="5s" repeatCount="indefinite"/>
+    <path d="M-50 0 L50 0 L38 18 L-40 18 Z" fill="#5E4744"/>
+    <path d="M-50 0 L50 0" stroke="#46332F" stroke-width="2"/>
+    <rect x="-34" y="-30" width="36" height="30" rx="4" fill="#3E4B55"/><circle cx="-8" cy="-8" r="2.5" fill="#8FD19E"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <rect x="6" y="-22" width="28" height="22" rx="3" fill="#6B7C88"/><circle cx="26" cy="-6" r="2" fill="#F2C46B"/>
+    <path d="M-4 -30 L-4 -64 L28 -40 Z" fill="#FCEBEE" stroke="#D6C6AB"/><path d="M-4 -64 L-4 0" stroke="#46332F" stroke-width="2"/>
+  </g>
+  <path d="M340 104 L440 90 L440 104 Z" fill="#93AA91"/><g transform="translate(396 70)"><circle cx="-8.21" cy="-1.9" r="13.01" fill="#F6D3D9" opacity="0.83"/><circle cx="4.17" cy="-3.31" r="10.55" fill="#EFB7C3" opacity="0.76"/><circle cx="0.04" cy="-1.09" r="13.09" fill="#E49AAB" opacity="0.86"/><circle cx="-0.41" cy="-4.79" r="13.85" fill="#F6D3D9" opacity="0.78"/><g fill="#FCEBEE"><circle cx="-2.83" cy="0.75" r="1.54"/><circle cx="-1.02" cy="2.07" r="1.54"/><circle cx="-1.71" cy="4.2" r="1.54"/><circle cx="-3.95" cy="4.2" r="1.54"/><circle cx="-4.64" cy="2.07" r="1.54"/></g><circle cx="-2.83" cy="2.66" r="0.86" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="-3.04" cy="-3.67" r="1.65"/><circle cx="-1.09" cy="-2.25" r="1.65"/><circle cx="-1.84" cy="0.04" r="1.65"/><circle cx="-4.25" cy="0.04" r="1.65"/><circle cx="-4.99" cy="-2.25" r="1.65"/></g><circle cx="-3.04" cy="-1.62" r="0.93" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="-5.74" cy="-1.25" r="1.85"/><circle cx="-3.56" cy="0.33" r="1.85"/><circle cx="-4.39" cy="2.9" r="1.85"/><circle cx="-7.09" cy="2.9" r="1.85"/><circle cx="-7.92" cy="0.33" r="1.85"/></g><circle cx="-5.74" cy="1.04" r="1.04" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="2.91" cy="-13.57" r="2.17"/><circle cx="5.47" cy="-11.71" r="2.17"/><circle cx="4.5" cy="-8.7" r="2.17"/><circle cx="1.33" cy="-8.7" r="2.17"/><circle cx="0.35" cy="-11.71" r="2.17"/></g><circle cx="2.91" cy="-10.88" r="1.22" fill="#D6879A"/><g fill="#FCEBEE"><circle cx="1.71" cy="-2.27" r="1.74"/><circle cx="3.76" cy="-0.78" r="1.74"/><circle cx="2.97" cy="1.62" r="1.74"/><circle cx="0.44" cy="1.62" r="1.74"/><circle cx="-0.34" cy="-0.78" r="1.74"/></g><circle cx="1.71" cy="-0.12" r="0.97" fill="#D6879A"/></g><path d="M396 80 L396 98" stroke="#5E4744" stroke-width="3"/>
+  <g><animateTransform attributeName="transform" type="translate" from="137.61 -20" to="77.61 170" dur="9.76s" begin="-9.52s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;14.53 0;0 0" dur="3.25s" begin="-9.52s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.79)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.79s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="439.23 -20" to="379.23 170" dur="8.69s" begin="-7.71s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;28.26 0;0 0" dur="2.9s" begin="-7.71s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.78)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.49s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="138.41 -20" to="78.41 170" dur="8.07s" begin="-0.55s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;27.24 0;0 0" dur="2.69s" begin="-0.55s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.89)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.71s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="270.51 -20" to="210.51 170" dur="8.84s" begin="-2.87s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;20.82 0;0 0" dur="2.95s" begin="-2.87s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.78)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.38s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="434.79 -20" to="374.79 170" dur="11.55s" begin="-5.96s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;20.68 0;0 0" dur="3.85s" begin="-5.96s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.61)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.99s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="345.54 -20" to="285.54 170" dur="10.76s" begin="-7.16s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;26.81 0;0 0" dur="3.59s" begin="-7.16s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.91)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.5s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="61.76 -20" to="1.76 170" dur="8.78s" begin="-6.32s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;28.88 0;0 0" dur="2.93s" begin="-6.32s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.76)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.83s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="56.71 -20" to="-3.29 170" dur="8.12s" begin="-0.64s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;18.63 0;0 0" dur="2.71s" begin="-0.64s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.6)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.76s" repeatCount="indefinite" additive="sum"/></use></g></g>
+  <path d="M0 160 H440" stroke="#E4D8C4" stroke-width="1.5"/></g>
+    <text x="30" y="192" class="mono" font-size="11" letter-spacing="3" fill="#C25B6E">01</text>
+    <text x="410" y="192" class="mono" font-size="10" letter-spacing="1.6" fill="#8C978F" text-anchor="end">SWIFT · MACOS · RCLONE</text>
+    <text x="30" y="224" class="serif" font-size="25" fill="#2E3B37">DiskFerry</text>
+    <text x="30" y="252" class="serif" font-size="14.5" fill="#5D6B64">Native macOS transfers for drives, NAS and</text><text x="30" y="272" class="serif" font-size="14.5" fill="#5D6B64">Windows shares — with honest live progress.</text>
+    <text x="410" y="224" class="mono" font-size="16" fill="#8C978F" text-anchor="end">↗</text>
+    
+    <rect width="440" height="300" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="438.5" height="298.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>

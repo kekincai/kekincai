@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" role="img" aria-label="03 CoBRA — A source-backed workspace for reproducible software estimation and AI-impact analysis.">
+<title>03 CoBRA — A source-backed workspace for reproducible software estimation and AI-impact analysis.</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="440" height="300" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="440" height="300" fill="#F5EFE4"/>
+    
+    <g><linearGradient id="vs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4EFE6"/><stop offset="1" stop-color="#EEE7DA"/></linearGradient>
+  <rect width="440" height="160" fill="url(#vs)"/>
+  
+  <g stroke="#E4D8C4" stroke-width="1"><path d="M0 0 V160"/><path d="M40 0 V160"/><path d="M80 0 V160"/><path d="M120 0 V160"/><path d="M160 0 V160"/><path d="M200 0 V160"/><path d="M240 0 V160"/><path d="M280 0 V160"/><path d="M320 0 V160"/><path d="M360 0 V160"/><path d="M400 0 V160"/><path d="M440 0 V160"/><path d="M0 0 H440"/><path d="M0 40 H440"/><path d="M0 80 H440"/><path d="M0 120 H440"/><path d="M0 160 H440"/></g>
+  <path d="M0 150 Q36.67 141.64 73.33 150 Q110 151.8 146.67 150 Q183.33 140.6 220 150 Q256.67 151.8 293.33 150 Q330 139.34 366.67 150 Q403.33 151.8 440 150 L440 160 L0 160 Z" fill="#93AA91" opacity=".7"/>
+  <g><rect x="56" y="92" width="28" height="58" rx="5" fill="#EFB7C3" opacity=".9"><animate attributeName="height" values="58;48;58" dur="4s" repeatCount="indefinite"/><animate attributeName="y" values="92;102;92" dur="4s" repeatCount="indefinite"/></rect></g><g><rect x="116" y="66" width="28" height="84" rx="5" fill="#B1C2AD" opacity=".9"><animate attributeName="height" values="84;74;84" dur="4.4s" repeatCount="indefinite"/><animate attributeName="y" values="66;76;66" dur="4.4s" repeatCount="indefinite"/></rect></g><g><rect x="176" y="80" width="28" height="70" rx="5" fill="#E49AAB" opacity=".9"><animate attributeName="height" values="70;60;70" dur="4.8s" repeatCount="indefinite"/><animate attributeName="y" values="80;90;80" dur="4.8s" repeatCount="indefinite"/></rect></g><g><rect x="236" y="46" width="28" height="104" rx="5" fill="#EFB7C3" opacity=".9"><animate attributeName="height" values="104;94;104" dur="5.2s" repeatCount="indefinite"/><animate attributeName="y" values="46;56;46" dur="5.2s" repeatCount="indefinite"/></rect></g><g><rect x="296" y="58" width="28" height="92" rx="5" fill="#B1C2AD" opacity=".9"><animate attributeName="height" values="92;82;92" dur="5.6s" repeatCount="indefinite"/><animate attributeName="y" values="58;68;58" dur="5.6s" repeatCount="indefinite"/></rect></g><g><rect x="356" y="30" width="28" height="120" rx="5" fill="#E49AAB" opacity=".9"><animate attributeName="height" values="120;110;120" dur="6s" repeatCount="indefinite"/><animate attributeName="y" values="30;40;30" dur="6s" repeatCount="indefinite"/></rect></g>
+  <path d="M70 84 L130 58 L190 72 L250 38 L310 50 L370 22" fill="none" stroke="#2E3B37" stroke-width="2" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.5s" repeatCount="indefinite"/></path>
+  <circle cx="70" cy="84" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/><circle cx="130" cy="58" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/><circle cx="190" cy="72" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/><circle cx="250" cy="38" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/><circle cx="310" cy="50" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/><circle cx="370" cy="22" r="4.5" fill="#F5EFE4" stroke="#2E3B37" stroke-width="2"/>
+  <g><animateTransform attributeName="transform" type="translate" from="176.75 -20" to="116.75 170" dur="12.05s" begin="-3.45s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;15.21 0;0 0" dur="4.02s" begin="-3.45s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(1.05)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.29s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="473.97 -20" to="413.97 170" dur="9.94s" begin="-6.44s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;16.24 0;0 0" dur="3.31s" begin="-6.44s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(1.11)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.1s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="301.39 -20" to="241.39 170" dur="10.14s" begin="-1.92s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;28.51 0;0 0" dur="3.38s" begin="-1.92s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.98)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.45s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="427.52 -20" to="367.52 170" dur="10.36s" begin="-9.57s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;29.55 0;0 0" dur="3.45s" begin="-9.57s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.6)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.92s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="291.96 -20" to="231.96 170" dur="9.54s" begin="-5.53s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;15.23 0;0 0" dur="3.18s" begin="-5.53s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.58)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.35s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="193.52 -20" to="133.52 170" dur="9.1s" begin="-2.32s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;15.93 0;0 0" dur="3.03s" begin="-2.32s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.62)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.58s" repeatCount="indefinite" additive="sum"/></use></g></g>
+  <path d="M0 160 H440" stroke="#E4D8C4" stroke-width="1.5"/></g>
+    <text x="30" y="192" class="mono" font-size="11" letter-spacing="3" fill="#C25B6E">03</text>
+    <text x="410" y="192" class="mono" font-size="10" letter-spacing="1.6" fill="#8C978F" text-anchor="end">JAVASCRIPT · LOCAL-FIRST</text>
+    <text x="30" y="224" class="serif" font-size="25" fill="#2E3B37">CoBRA</text>
+    <text x="30" y="252" class="serif" font-size="14.5" fill="#5D6B64">A source-backed workspace for reproducible</text><text x="30" y="272" class="serif" font-size="14.5" fill="#5D6B64">software estimation and AI-impact analysis.</text>
+    <text x="410" y="224" class="mono" font-size="16" fill="#8C978F" text-anchor="end">↗</text>
+    
+    <rect width="440" height="300" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="438.5" height="298.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>

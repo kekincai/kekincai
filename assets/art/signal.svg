@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="900" height="290" role="img" aria-label="00 / Signal — I build focused tools across native Apple platforms, AI workflows, and local data. Based in Tokyo.">
+<title>00 / Signal — I build focused tools across native Apple platforms, AI workflows, and local data. Based in Tokyo.</title>
+<defs>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.28  0 0 0 0 0.2  0 0 0 0.09 0"/>
+  </filter>
+  <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  <filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+  <path id="petal" d="M0 0 C3 -5 10 -5 9 1 C8 6 2 7 0 0 Z"/>
+  <style>
+    .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .jp{font-family:'Hiragino Mincho ProN','Yu Mincho','YuMincho','Noto Serif CJK JP','Noto Serif JP','Songti SC',serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    @media (prefers-reduced-motion: reduce){ *{animation:none!important} }
+  </style>
+  
+</defs>
+
+  <clipPath id="c"><rect width="900" height="290" rx="20"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="900" height="290" fill="#F5EFE4"/>
+    
+    <text x="54" y="66" class="mono" font-size="12" letter-spacing="3.5" fill="#C25B6E">00 / SIGNAL</text>
+    <text x="178" y="66" class="jp" font-size="12" letter-spacing="3" fill="#8C978F">信号</text>
+    <text x="54" y="110" class="jp" font-size="23" fill="#2E3B37" letter-spacing="1.5">東京で、日々の小さな摩擦を</text><text x="54" y="146" class="jp" font-size="23" fill="#2E3B37" letter-spacing="1.5">ほどくソフトウェアをつくっています。</text>
+    <text x="54" y="192" class="serif" font-size="15" fill="#5D6B64">I build focused tools across native Apple platforms, AI workflows,</text><text x="54" y="215" class="serif" font-size="15" fill="#5D6B64">and local data. The stack changes; the standard does not — clear</text><text x="54" y="238" class="serif" font-size="15" fill="#5D6B64">purpose, observable behavior, and software that earns its place.</text>
+    <g transform="translate(590 58)">
+    <rect width="250" height="176" rx="10" fill="#FBF7EF" stroke="#E4D8C4" stroke-width="1.5"/>
+    <path d="M0 44 H250" stroke="#E4D8C4" stroke-dasharray="4 4"/>
+    <circle cx="0" cy="44" r="8" fill="#F5EFE4" stroke="#E4D8C4"/><circle cx="250" cy="44" r="8" fill="#F5EFE4" stroke="#E4D8C4"/>
+    <text x="20" y="29" class="jp" font-size="16" fill="#2E3B37" letter-spacing="4">乗車券</text>
+    <text x="230" y="28" class="mono" font-size="10" letter-spacing="2" fill="#C25B6E" text-anchor="end">RIDE PASS</text>
+    <text x="20" y="76" class="mono" font-size="10" letter-spacing="1.5" fill="#8C978F">FROM</text><text x="78" y="76" class="mono" font-size="11.5" letter-spacing=".6" fill="#2E3B37">TOKYO  35.6762° N</text><text x="20" y="102" class="mono" font-size="10" letter-spacing="1.5" fill="#8C978F">FOCUS</text><text x="78" y="102" class="mono" font-size="11.5" letter-spacing=".6" fill="#2E3B37">AI × NATIVE × LOCAL</text><text x="20" y="128" class="mono" font-size="10" letter-spacing="1.5" fill="#8C978F">MODE</text><text x="78" y="128" class="mono" font-size="11.5" letter-spacing=".6" fill="#2E3B37">BUILD TO UNDERSTAND</text><text x="20" y="154" class="mono" font-size="10" letter-spacing="1.5" fill="#8C978F"></text><text x="78" y="154" class="mono" font-size="11.5" letter-spacing=".6" fill="#2E3B37">SHIP TO LEARN</text>
+    <g transform="translate(222 150) rotate(-12)" opacity=".85"><circle r="18" fill="none" stroke="#C25B6E" stroke-width="1.8"/><circle r="14" fill="none" stroke="#C25B6E" stroke-width=".8"/><text y="5" class="jp" font-size="13" fill="#C25B6E" text-anchor="middle">済</text></g>
+  </g>
+    <g><animateTransform attributeName="transform" type="translate" from="264.77 -20" to="184.77 310" dur="16.08s" begin="-1.19s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;19.57 0;0 0" dur="5.36s" begin="-1.19s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(1.21)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.13s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="269.49 -20" to="189.49 310" dur="16.09s" begin="-4.42s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;12.02 0;0 0" dur="5.36s" begin="-4.42s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(1.03)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.9s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="566.07 -20" to="486.07 310" dur="19.16s" begin="-1.91s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;23.69 0;0 0" dur="6.39s" begin="-1.91s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(0.96)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.74s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="646.24 -20" to="566.24 310" dur="19.45s" begin="-6.62s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;22.04 0;0 0" dur="6.48s" begin="-6.62s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.67)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.52s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="336.55 -20" to="256.55 310" dur="15.16s" begin="-10.98s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;20.23 0;0 0" dur="5.05s" begin="-10.98s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.7)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.88s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="51.18 -20" to="-28.82 310" dur="19.38s" begin="-2.76s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;26.89 0;0 0" dur="6.46s" begin="-2.76s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#E49AAB" transform="scale(1.1)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.84s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="968.3 -20" to="888.3 310" dur="18.07s" begin="-0.72s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;18.71 0;0 0" dur="6.02s" begin="-0.72s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#EFB7C3" transform="scale(0.92)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.74s" repeatCount="indefinite" additive="sum"/></use></g></g><g><animateTransform attributeName="transform" type="translate" from="822.04 -20" to="742.04 310" dur="20.35s" begin="-4.64s" repeatCount="indefinite"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;25.02 0;0 0" dur="6.78s" begin="-4.64s" repeatCount="indefinite"/>
+  <use href="#petal" fill="#F6D3D9" transform="scale(0.68)" opacity=".9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.12s" repeatCount="indefinite" additive="sum"/></use></g></g>
+    
+    <rect width="900" height="290" rx="0" filter="url(#grain)" opacity="1"/>
+  </g>
+  <rect x=".75" y=".75" width="898.5" height="288.5" rx="19.5" fill="none" stroke="#E4D8C4" stroke-width="1.5"/>
+</svg>
