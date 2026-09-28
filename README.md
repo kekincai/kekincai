@@ -8,6 +8,8 @@
   <a href="https://github.com/kekincai/ai-blog"><b>PAUL.LOG</b></a>
   &nbsp;·&nbsp;
   <a href="https://stackoverflow.com/users/8745472"><b>Stack Overflow</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:me@kejincai.dev"><b>me@kejincai.dev</b></a>
 </p>
 
 <p align="center">
