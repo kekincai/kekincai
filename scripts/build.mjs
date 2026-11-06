@@ -104,8 +104,8 @@ function themed(name, w, h, label, render) {
 
   const body = `${dots}
 <rect x="64" y="56" width="36" height="4" fill="${t.accent}"/>
-${mono(116, 62, "PAUL CAI  ·  東京  ·  35.68° N  139.69° E", t, { size: 12, fill: t.muted, family: MONO, ls: 2 })}
-<text x="60" y="262" font-family='${SANS}' font-size="168" font-weight="800" fill="${t.ink}" letter-spacing="-8">Paul Cai<tspan class="blink" fill="${t.accent}">.</tspan></text>
+${mono(116, 62, "KE JINCAI  ·  東京  ·  35.68° N  139.69° E", t, { size: 12, fill: t.muted, family: MONO, ls: 2 })}
+<text x="60" y="262" font-family='${SANS}' font-size="168" font-weight="800" fill="${t.ink}" letter-spacing="-8">Ke Jincai<tspan class="blink" fill="${t.accent}">.</tspan></text>
 ${text(64, 328, "行动派，干起来！", { size: 32, weight: 600, fill: t.ink, family: CJK, opacity: 0.92 })}
 ${text(64, 366, "I build focused tools for Apple platforms, AI workflows and local data — from Tokyo.", { size: 19, weight: 400, fill: t.muted })}
 <text x="1136" y="56" font-family='${CJK}' font-size="15" font-weight="500" fill="${t.muted}" letter-spacing="6" style="writing-mode: vertical-rl; text-orientation: upright">東京発・道具をつくる</text>
@@ -115,7 +115,7 @@ ${mono(W - 64, 420, "SINCE 2016  ·  88 PUBLIC REPOS", t, { anchor: "end" })}`;
 
   write(
     "hero.svg",
-    svgDoc(W, H, "Paul Cai — 行动派，干起来！ I build focused tools for Apple platforms, AI workflows and local data, from Tokyo.", body, {
+    svgDoc(W, H, "Ke Jincai — 行动派，干起来！ I build focused tools for Apple platforms, AI workflows and local data, from Tokyo.", body, {
       bg: t.bg,
       css: `.blink{animation:blink 1.1s steps(1,end) infinite}@keyframes blink{50%{opacity:0}}`,
     }),
