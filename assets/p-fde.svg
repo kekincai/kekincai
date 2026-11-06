@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 250" width="590" height="250" role="img" aria-label="03 FDE Radar — 日本を中心に、Web とデジタルの変化を会社と個人の 判断材料として整理する。 · ASTRO  ·  WORKERS  ·  D1">
+<title>03 FDE Radar — 日本を中心に、Web とデジタルの変化を会社と個人の 判断材料として整理する。 · ASTRO  ·  WORKERS  ·  D1</title>
+<style>
+text{font-kerning:normal;-webkit-font-smoothing:antialiased}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+
+<rect x="0.5" y="0.5" width="589" height="249" rx="20" fill="#141416" stroke="rgba(255,255,255,0.10)"/>
+<text x="32" y="48" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="13" font-weight="400" fill="#FF5A1F" text-anchor="start" letter-spacing="1.4">03</text>
+<text x="32" y="118" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="32" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.8">FDE Radar</text>
+<text x="32" y="158" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="15.5" font-weight="400" fill="#8E8E93" text-anchor="start">日本を中心に、Web とデジタルの変化を会社と個人の</text>
+<text x="32" y="181" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="15.5" font-weight="400" fill="#8E8E93" text-anchor="start">判断材料として整理する。</text>
+<line x1="32" y1="203" x2="558" y2="203" stroke="rgba(255,255,255,0.10)"/>
+<text x="32" y="229" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="12" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">ASTRO  ·  WORKERS  ·  D1</text>
+<g transform="translate(426 34) scale(0.78)">
+<g fill="none" stroke="#F5F5F7" stroke-width="2">
+<circle cx="80" cy="64" r="60"/><circle cx="80" cy="64" r="40" opacity="0.6"/><circle cx="80" cy="64" r="20" opacity="0.35"/>
+</g>
+<line x1="80" y1="64" x2="132" y2="34" stroke="#FF5A1F" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="80" cy="64" r="3.5" fill="#F5F5F7"/>
+<circle cx="46" cy="92" r="5" fill="#FF5A1F"/>
+<circle cx="112" cy="104" r="3" fill="#F5F5F7" opacity="0.5"/></g>
+</svg>

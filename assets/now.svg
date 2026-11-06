@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Now building PhotoDiary · writing PAUL.LOG · based in Tokyo">
+<title>Now building PhotoDiary · writing PAUL.LOG · based in Tokyo</title>
+<style>
+text{font-kerning:normal;-webkit-font-smoothing:antialiased}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="1199" height="149" rx="20" fill="#141416" stroke="rgba(255,255,255,0.10)"/>
+<text x="36" y="48" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="12" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">NOW BUILDING</text>
+<text x="36" y="88" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.5">PhotoDiary</text>
+<text x="36" y="114" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="14" font-weight="400" fill="#8E8E93" text-anchor="start">A SwiftUI journal written into Photos captions</text>
+<line x1="400" y1="28" x2="400" y2="122" stroke="rgba(255,255,255,0.10)"/>
+<text x="436" y="48" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="12" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">WRITING</text>
+<text x="436" y="88" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.5">PAUL.LOG</text>
+<text x="436" y="114" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="14" font-weight="400" fill="#8E8E93" text-anchor="start">Notes from one person's AI learning floor</text>
+<line x1="800" y1="28" x2="800" y2="122" stroke="rgba(255,255,255,0.10)"/>
+<text x="836" y="48" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="12" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">BASED IN</text>
+<text x="836" y="88" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="28" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.5">Tokyo</text>
+<text x="836" y="114" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="14" font-weight="400" fill="#8E8E93" text-anchor="start">JST · UTC+9 · available for collaboration</text>
+</svg>

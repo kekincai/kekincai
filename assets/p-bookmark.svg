@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 250" width="590" height="250" role="img" aria-label="04 Bookmark Cover Flow — An editorial, spatial way to browse Chrome bookmarks through real webpage previews. · TYPESCRIPT  ·  CHROME  ·  INDEXEDDB">
+<title>04 Bookmark Cover Flow — An editorial, spatial way to browse Chrome bookmarks through real webpage previews. · TYPESCRIPT  ·  CHROME  ·  INDEXEDDB</title>
+<style>
+text{font-kerning:normal;-webkit-font-smoothing:antialiased}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+
+<rect x="0.5" y="0.5" width="589" height="249" rx="20" fill="#141416" stroke="rgba(255,255,255,0.10)"/>
+<text x="32" y="48" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="13" font-weight="400" fill="#FF5A1F" text-anchor="start" letter-spacing="1.4">04</text>
+<text x="32" y="118" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="32" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.8">Bookmark Cover Flow</text>
+<text x="32" y="158" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="15.5" font-weight="400" fill="#8E8E93" text-anchor="start">An editorial, spatial way to browse Chrome bookmarks</text>
+<text x="32" y="181" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="15.5" font-weight="400" fill="#8E8E93" text-anchor="start">through real webpage previews.</text>
+<line x1="32" y1="203" x2="558" y2="203" stroke="rgba(255,255,255,0.10)"/>
+<text x="32" y="229" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="12" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">TYPESCRIPT  ·  CHROME  ·  INDEXEDDB</text>
+<g transform="translate(426 34) scale(0.78)">
+<path d="M0 26 L44 36 V104 L0 114 Z" fill="none" stroke="#F5F5F7" stroke-width="2" opacity="0.5"/>
+<path d="M160 26 L116 36 V104 L160 114 Z" fill="none" stroke="#F5F5F7" stroke-width="2" opacity="0.5"/>
+<rect x="52" y="14" width="56" height="112" rx="6" fill="#141416" stroke="#FF5A1F" stroke-width="2.5"/>
+<rect x="62" y="26" width="36" height="22" rx="3" fill="#48484A"/>
+<line x1="62" y1="62" x2="98" y2="62" stroke="#F5F5F7" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+<line x1="62" y1="74" x2="88" y2="74" stroke="#F5F5F7" stroke-width="2" stroke-linecap="round" opacity="0.4"/></g>
+</svg>

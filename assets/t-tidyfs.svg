@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 180" width="290" height="180" role="img" aria-label="tidyfs — Flatten nested dirs, drop empty ones · RUST · INK">
+<title>tidyfs — Flatten nested dirs, drop empty ones · RUST · INK</title>
+<style>
+text{font-kerning:normal;-webkit-font-smoothing:antialiased}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+
+<rect x="0.5" y="0.5" width="289" height="179" rx="18" fill="#141416" stroke="rgba(255,255,255,0.10)"/>
+<g transform="translate(232 28)"><g fill="none" stroke="#F5F5F7" stroke-width="2" stroke-linecap="round"><path d="M2 4 H14 L18 8 H34 V30 H2 Z"/></g><path d="M12 19 H26 M20 13 L26 19 L20 25" fill="none" stroke="#FF5A1F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="26" y="96" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="21" font-weight="700" fill="#F5F5F7" text-anchor="start" letter-spacing="-0.4">tidyfs</text>
+<text x="26" y="122" font-family='-apple-system, system-ui, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Inter, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans CJK JP", "PingFang SC", sans-serif' font-size="13.5" font-weight="400" fill="#8E8E93" text-anchor="start">Flatten nested dirs, drop empty ones</text>
+<text x="26" y="154" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace' font-size="11" font-weight="400" fill="#8E8E93" text-anchor="start" letter-spacing="1.4">RUST · INK</text>
+</svg>
