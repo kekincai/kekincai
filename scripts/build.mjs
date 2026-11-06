@@ -106,18 +106,19 @@ function themed(name, w, h, label, render) {
   // tittle sits, so the dot of each "i" can carry its own colour and animation.
   // Offsets measured against SF Pro Display 800 @168px with letter-spacing -8:
   // ı advance 34.4, period advance 33.9, tittle top 126.3, period top 27.7.
-  const dottedI = (t, cls) =>
-    `ı<tspan class="${cls}" fill="${t.accent}" dx="-34.4" dy="-98.6">.</tspan>`;
+  const dottedI = (t, cls, fill = t.ink) =>
+    `<tspan fill="${fill}">ı</tspan><tspan class="${cls}" fill="${t.accent}" dx="-34.4" dy="-98.6">.</tspan>`;
+  const RED = "#FF3B30"; // the "ai" in Jincai — a nod to the AI line below
 
   const body = `${dots}
 <rect x="64" y="56" width="36" height="4" fill="${t.accent}"/>
 ${mono(116, 62, "KE JINCAI  ·  東京  ·  35.68° N  139.69° E", t, { size: 12, fill: t.muted, family: MONO, ls: 2 })}
-<text x="60" y="262" font-family='${SANS}' font-size="168" font-weight="800" fill="${t.ink}" letter-spacing="-8">Ke J${dottedI(t, "d1")}<tspan dx="0.5" dy="98.6">nca</tspan>${dottedI(t, "d2")}</text>
+<text x="60" y="262" font-family='${SANS}' font-size="168" font-weight="800" fill="${t.ink}" letter-spacing="-8">Ke J${dottedI(t, "d1")}<tspan dx="0.5" dy="98.6">nc</tspan><tspan fill="${RED}">a</tspan>${dottedI(t, "d2", RED)}</text>
 ${text(64, 328, "行动派，干起来！", { size: 32, weight: 600, fill: t.ink, family: CJK, opacity: 0.92 })}
 ${text(64, 366, "I build focused tools for Apple platforms, AI workflows and local data — from Tokyo.", { size: 19, weight: 400, fill: t.muted })}
 <text x="1136" y="56" font-family='${CJK}' font-size="15" font-weight="500" fill="${t.muted}" letter-spacing="6" style="writing-mode: vertical-rl; text-orientation: upright">東京発・道具をつくる</text>
 <line x1="64" y1="398" x2="${W - 64}" y2="398" stroke="${t.lineStrong}"/>
-${mono(64, 420, "AI  ×  NATIVE  ×  LOCAL-FIRST", t, { fill: t.ink, opacity: 0.8 })}
+<text x="64" y="420" font-family='${MONO}' font-size="12" fill="${t.ink}" opacity="0.85" letter-spacing="1.4"><tspan fill="${RED}">AI</tspan>  ×  NATIVE  ×  LOCAL-FIRST</text>
 ${mono(W - 64, 420, "SINCE 2016  ·  88 PUBLIC REPOS", t, { anchor: "end" })}`;
 
   write(
