@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ke Jincai — 行动派，干起来！ I build focused tools for Apple platforms, AI workflows and local data, from Tokyo." />
+  <a href="https://kejincai.dev"><img src="./assets/hero.svg" width="100%" alt="Ke Jincai — 行动派，干起来！ I build focused tools for Apple platforms, AI workflows and local data, from Tokyo. → kejincai.dev" /></a>
 </p>
 
 <p align="center">
